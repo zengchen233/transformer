@@ -2,6 +2,11 @@
 data/
 venv/
 .data/
+.idea/
 *.pt
 __pycache__
 result/
+/.ipynb_checkpoints/
+/.autodl/
+/saved/model-3.375047594308853.pt
+/saved/transformer-base/.ipynb_checkpoints/
